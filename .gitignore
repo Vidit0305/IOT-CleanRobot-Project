@@ -1,0 +1,17 @@
+# Arduino build artifacts
+*.hex
+*.elf
+*.bin
+*.map
+build/
+output/
+
+# VS Code / PlatformIO
+.vscode/
+.pio/
+.clangd/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
